@@ -1,0 +1,69 @@
+ 1 Subject                                                                                                                                         
+ 2 Activity                                                                                                                                        
+ 3 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  mean   X Axis                                           
+ 4 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  mean   Y Axis                                           
+ 5 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  mean -Z                                                 
+ 6 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Std Deviation   X Axis                                  
+ 7 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Std Deviation   Y Axis                                  
+ 8 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Std Deviation -Z                                        
+ 9 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  mean   X Axis                                        
+10 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  mean   Y Axis                                        
+11 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  mean -Z                                              
+12 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  Std Deviation   X Axis                               
+13 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  Std Deviation   Y Axis                               
+14 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  Std Deviation -Z                                     
+15 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals mean   X Axis                              
+16 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals mean   Y Axis                              
+17 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals mean -Z                                    
+18 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals Std Deviation   X Axis                     
+19 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals Std Deviation   Y Axis                     
+20 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals Std Deviation -Z                           
+21 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro mean   X Axis                                                    
+22 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro mean   Y Axis                                                    
+23 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro mean -Z                                                          
+24 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Std Deviation   X Axis                                           
+25 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Std Deviation   Y Axis                                           
+26 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Std Deviation -Z                                                 
+27 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals mean   X Axis                                       
+28 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals mean   Y Axis                                       
+29 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals mean -Z                                             
+30 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals Std Deviation   X Axis                              
+31 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals Std Deviation   Y Axis                              
+32 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals Std Deviation -Z                                    
+33 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Magnitude mean                                          
+34 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Magnitude Std Deviation                                 
+35 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  Magnitude mean                                       
+36 Average by Subject & Activity for UCI HAR Source Measurement -  Time Gravity Acceleration  Magnitude Std Deviation                              
+37 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals Magnitude mean                             
+38 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Acceleration  Jerk Signals Magnitude Std Deviation                    
+39 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Magnitude mean                                                   
+40 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Magnitude Std Deviation                                          
+41 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals Magnitude mean                                      
+42 Average by Subject & Activity for UCI HAR Source Measurement -  Time Body Gyro Jerk Signals Magnitude Std Deviation                             
+43 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  mean   X Axis                            
+44 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  mean   Y Axis                            
+45 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  mean -Z                                  
+46 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Std Deviation   X Axis                   
+47 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Std Deviation   Y Axis                   
+48 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Std Deviation -Z                         
+49 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals mean   X Axis               
+50 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals mean   Y Axis               
+51 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals mean -Z                     
+52 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals Std Deviation   X Axis      
+53 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals Std Deviation   Y Axis      
+54 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals Std Deviation -Z            
+55 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro mean   X Axis                                     
+56 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro mean   Y Axis                                     
+57 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro mean -Z                                           
+58 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Std Deviation   X Axis                            
+59 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Std Deviation   Y Axis                            
+60 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Std Deviation -Z                                  
+61 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Magnitude mean                           
+62 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Magnitude Std Deviation                  
+63 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals Magnitude mean          
+64 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Acceleration  Jerk Signals Magnitude Std Deviation 
+65 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Magnitude mean                                
+66 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Magnitude Std Deviation                       
+67 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Jerk Signals Magnitude mean                   
+68 Average by Subject & Activity for UCI HAR Source Measurement -  Frequency Signals - Body Gyro Jerk Signals Magnitude Std Deviation 
+
